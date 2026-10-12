@@ -1,0 +1,2 @@
+Ghi chu hoc Git
+Noi dung ghi chu moi.
